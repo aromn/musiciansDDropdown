@@ -1,0 +1,25 @@
+{
+  "name": "musiciansddropdown",
+  "version": "1.0.0",
+  "description": "a simple jquery plugin to feed a dropdown with json data.",
+  "main": "musiciansddropdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aromn/musiciansDDropdown.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "jquery",
+    "dynamic-dropdown",
+    "bootstrap-droddown"
+  ],
+  "author": "Aldo Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aromn/musiciansDDropdown/issues"
+  },
+  "homepage": "https://github.com/aromn/musiciansDDropdown#readme"
+}
